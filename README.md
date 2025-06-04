@@ -1,9 +1,3 @@
-Tentu, berdasarkan analisis mendalam dari file kanvas Anda, saya akan membuatkan file `README.md` yang profesional dan terstruktur untuk repositori GitHub Anda.
-
-File ini akan menjelaskan proyek "Sumber Baru" Anda, fitur-fiturnya, dan teknologi yang digunakan, sesuai dengan permintaan Anda (Laravel 12 & Bootstrap).
-
-Berikut adalah konten yang bisa langsung Anda salin dan tempelkan ke dalam file `README.md` di GitHub.
-
 -----
 
 # Proyek Sumber Baru - Sistem Informasi Akuntansi & POS
